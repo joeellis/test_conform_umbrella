@@ -1,3 +1,3 @@
-%{"conform": {:hex, :conform, "2.3.7", "3bc7eeec7807195cb5ebc595473873c43286c3398ea3d97954767527b4c0c8ad", [:mix], [{:neotoma, "~> 1.7.3", [hex: :neotoma, optional: false]}]},
+%{"conform": {:hex, :conform, "2.4.0", "09ced3c81630885ecd6fb1ca696f3ca58ba4d705e51dc4bab2620c304ea0f9c9", [:mix], [{:neotoma, "~> 1.7.3", [hex: :neotoma, optional: false]}]},
   "distillery": {:hex, :distillery, "1.4.1", "546d851bf27ae8fe0727e10e4fc4e146ad836eecee138263a60431e688044ed3", [:mix], []},
   "neotoma": {:hex, :neotoma, "1.7.3", "d8bd5404b73273989946e4f4f6d529e5c2088f5fa1ca790b4dbe81f4be408e61", [:rebar], []}}
